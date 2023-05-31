@@ -9,3 +9,4 @@ Used different types of customized visualization ( bar chart, pie chart, donut c
 
 # Project Dashboard
 
+![Alt text of the image](https://github.com/rohansharma111/Ecommerce_PowerBI_Data_Visualization/blob/e5388300a0f36923cab8f72fc2dc6c6c92814740/Dashboard.png)
